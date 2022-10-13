@@ -1,4 +1,4 @@
-## Svg Cubic to Quadratic ##
+## Svg Cubic to Quadratic conversion ##
 
 It's a simple utility to convert the Bézier curve from Cubic to Quadratic in SVGs files. 
 
